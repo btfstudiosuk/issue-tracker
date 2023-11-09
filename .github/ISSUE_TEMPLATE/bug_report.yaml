@@ -50,8 +50,8 @@ body:
   - type: input
     id: permid
     attributes:
-      label: LUNA User ID
-      description: Your LUNA account user ID (/getmyid)
+      label: BTF User ID
+      description: Your BTF account user ID (/getmyid)
       placeholder: "50"
     validations:
       required: true
